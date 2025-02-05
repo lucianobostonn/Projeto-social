@@ -47,9 +47,9 @@ nav{
     text-align: right;
 }
 
-img{
-    height: 70px;
-    width: 70px;
+section#redes-sociais img{
+    height: 60px;
+    width: 60px;
     margin: 10px 5px 0px 0px;
     border-radius: 50%;
     transition: 0.5s;
